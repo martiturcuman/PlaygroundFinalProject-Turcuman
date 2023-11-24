@@ -1,9 +1,9 @@
 # PlaygroundFinalProject-Turcuman
 
 ## Instalacion y Ejecucion
-1 - Descargar el repositorio en su ordenador
-2- Abrir la terminal, y utilizando el comando 'cd' dirigirse hasta el archivo 'PlaygroundFinalProject-Turcuman'
-3- Escribir el comando 'python manage.py runserver'
+- Descargar el repositorio en su ordenador
+- Abrir la terminal, y utilizando el comando 'cd' dirigirse hasta el archivo 'PlaygroundFinalProject-Turcuman'
+- Escribir el comando 'python manage.py runserver'
 
 ## Pagina Web
 La pagina MedCom consta de una pagina principal o 'home' donde le da la bienvenida al usuario. Una barra superior de navegacion donde se encuentran las siguientes funcionalidades:
